@@ -7,11 +7,11 @@ This project implements and compares search algorithms to solve two classic prob
 
 ## Project Files
 
-* 'boards.ipynb' - Jupyter notebook containing the 4x4 puzzle logic, Manhattan distance heuristic, and search implementations (A* and Greedy Best-First). Runs test boards and exports results.
-* 'Astar-railway.ipynb' - Jupyter notebook for the railroad network graph search (DFS, BFS, UCS, Greedy, and A*).
-* 'graph.json' - Station coordinates and connection data used by the railway script.
-* 'check_submission.py' - Script provided to validate 'puzzle-solutions.json' output formatting.
-* 'puzzle-solutions.json' - Generated benchmark results.
+* 'boards.ipynb' - Jupyter notebook containing the 4x4 puzzle logic, Manhattan distance heuristic, and search implementations (A* and Greedy Best-First). Runs test boards and exports results. (Includes provided file material)
+* 'Astar-railway.ipynb' - Jupyter notebook for the railroad network graph search (DFS, BFS, UCS, Greedy, and A*). (Includes provided file material)
+* 'graph.json' - Station coordinates and connection data used by the railway script. (Provided file)
+* 'check_submission.py' - Script provided to validate 'puzzle-solutions.json' output formatting. (Provided file)
+* 'puzzle-solutions.json' - Generated benchmark results. 
 * 'AI Report.pdf' - Final written report.
 
 ## How to Run
