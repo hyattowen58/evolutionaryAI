@@ -17,7 +17,7 @@ This project implements and compares search algorithms to solve two classic prob
 ## How to Run
 
 ### 15-Puzzle
-1. Open `boards.ipynb` in Jupyter Notebook or other.
+1. Open 'boards.ipynb' in Jupyter Notebook or other.
 2. Run all cells to process the initial test boards.
 3. The script verifies board solvability before running searches and automatically saves the output to 'puzzle-solutions.json'.
 4. To test a custom starting board, pass a row-formatted string ('"1 2 7 3 / 5 6 _ 4 / 9 10 11 8 / 13 14 15 12"').
